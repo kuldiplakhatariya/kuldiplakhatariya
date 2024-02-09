@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kuldip Lakhatariya
-- 👀 I’m interested in .Codding
-- 🌱 I’m currently learning : Full stack developer
-- 💞️ I’m looking to collaborate on . Find job in Full Stack Developer
+- 👀 I’m interested in : learning new things
+- 🌱 I’m currently learning : Front-End developer
+- 💞️ I’m looking to collaborate on . Find job as  Front-End developer
 - 📫 How to reach me ...E-Mail: kuldip.lakhatariya@yahoo.com
 
 <!---
